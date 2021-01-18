@@ -1,6 +1,6 @@
 ## Project requirements
 - Angular CLI & Angular > 9.0.0
-- Node: 12.13.1 lub inna wersja LTS
+- Node: 12.13.1 or another version LTS
 
 ## Installing Angular CLI in a specific version
 `npm install -g @angular/cli@9.0.0`
